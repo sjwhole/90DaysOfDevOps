@@ -55,12 +55,12 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 - [✔️] 🌐 23 > [Network Protocols](Days/day23.md)
 - [✔️] 🌐 24 > [Network Automation](Days/day24.md)
 - [✔️] 🌐 25 > [Python for Network Automation](Days/day25.md)
-- [ ] 🌐 26 > [Building our Lab](Days/day26.md)
-- [ ] 🌐 27 > [Getting Hands-On with Python & Network](Days/day27.md)
+- [✔️] 🌐 26 > [Building our Lab](Days/day26.md)
+- [✔️] 🌐 27 > [Getting Hands-On with Python & Network](Days/day27.md)
 
 ### Stick to one Cloud Provider
 
-- [ ] ☁️ 28 > [The Big Picture: DevOps & The Cloud](Days/day28.md)
+- [✔️] ☁️ 28 > [The Big Picture: DevOps & The Cloud](Days/day28.md)
 - [ ] ☁️ 29 > [Microsoft Azure Fundamentals](Days/day29.md)
 - [ ] ☁️ 30 > [Microsoft Azure Security Models](Days/day30.md)
 - [ ] ☁️ 31 > [Microsoft Azure Compute Models](Days/day31.md)
